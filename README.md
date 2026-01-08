@@ -2,9 +2,9 @@
 ![iot at work](images/iot.jpg)
 
 **Research Type:** Solo Academic Research  
-**
 
-Institution:** Gdańsk University of Technology  
+
+Institution:**Gdańsk University of Technology**  
 **Course:** Exploring Citizen Engagement for Smart Sustainable Cities  
 **Instructor:** Professor Magdalena Ciesielska  
 **Date:** 2024  
@@ -12,7 +12,7 @@ Institution:** Gdańsk University of Technology
 
 ---
 
-## 🎯 Research Question
+## Research Question
 
 **What role does digital infrastructure play in creating smart sustainable cities, and how does citizen engagement affect technical success?**
 
@@ -20,7 +20,7 @@ This research investigates the critical relationship between digital infrastruct
 
 ---
 
-## 📋 Abstract
+## Abstract
 
 With urban populations expected to reach 6.4 billion by 2050, cities globally face mounting pressure to manage resources efficiently. This research analyzes how digital infrastructure specifically Internet of Things (IoT) sensors and smart monitoring systems enables sustainable urban solutions when combined with meaningful citizen engagement.
 
@@ -54,6 +54,7 @@ With urban populations expected to reach 6.4 billion by 2050, cities globally fa
 - **66% reduction** in street cleaning requests
 - **64% reduction** in illegal dumping
 - Significantly improved resident satisfaction with city cleanliness
+[waste_management_statistics](san_francisco_waste_management_impact.jpg)
 
 ### Critical Success Factor: Citizen Engagement
 
@@ -81,6 +82,7 @@ The research applies Arnstein's eight-rung ladder to evaluate citizen participat
 - **Rung 6 (Partnership):** Shared decision-making between city and residents
 - **Rung 7 (Delegated Power):** Citizens hold significant control over project operations
 - **Rung 8 (Citizen Control):** Full citizen governance
+![Arstein Framework San Francisco](arstein_ladder_san_francisco.jpg)
 
 **San Francisco achieved Rungs 6-7**, which the research identifies as critical for sustainable smart city success.
 
@@ -103,12 +105,13 @@ This study directly informed my subsequent research on Tartu, Estonia, which exa
 
 ---
 
-## 📈 Supporting Evidence
+## Supporting Evidence
 
 ### IoT Growth Projection
 - **28.5 billion** IoT-connected devices anticipated by 2029
 - Large share contributing to smart city solutions
 - Makes IoT the most widely deployed digital infrastructure in urban environments
+[iot_projection](figures/iot_deployment_statistics.jpg)
 
 ### Waste Management as Urban Challenge
 Urban centers concentrate populations and resources, creating pressure on:
@@ -134,7 +137,7 @@ The research also identifies systemic challenges facing smart sustainable cities
 
 ---
 
-## 📚 Key References
+## Key References
 
 - **Exner, J. & Andres, P. (2024).** Sustainable Operation of Digital Infrastructure in the Smart City. *REAL CORP 2024*, 557-565.
 - **Freeman, G. (2017).** The Origin and Implementation of the Smart-Sustainable City Concept. Master's Thesis, Lund University.
@@ -145,12 +148,12 @@ The research also identifies systemic challenges facing smart sustainable cities
 
 ---
 
-## 🔗 Related Research
+## Related Research
 
 This research is **Phase 1** of my smart cities investigation:
 
 - **Phase 1 (This Repository):** San Francisco case study - when participation enables technical success
-- **Phase 2:** [Tartu, Estonia analysis]( https://github.com/timothyakintayo/smart-cities-digital-infrastructure-research) - when digital tools exclude despite technical success
+- **Phase 2:** [Tartu, Estonia analysis](https://github.com/timothyakintayo/timothyakintayo-tartu-smart-city-analysis) - when digital tools exclude despite technical success
 - **Synthesis:** Digital participation tools can themselves become barriers to participation
 
 **Research Progression:**  
@@ -163,7 +166,7 @@ This research is **Phase 1** of my smart cities investigation:
 ## 📂 Repository Contents
 
 ### `/presentation/`
-- Research presentation slides (PDF format)
+- Research presentation slides (PDF format) can be found here [Presentation](Timothy_The role of digital infrastructure in creating smart.pdf)
 
 ### `/figures/`
 - Arnstein's Ladder diagram
@@ -175,7 +178,7 @@ This research is **Phase 1** of my smart cities investigation:
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 **Course:** Exploring Citizen Engagement for Smart Sustainable Cities  
 **Institution:** Gdańsk University of Technology  
@@ -186,7 +189,7 @@ This solo research project served as the foundation for my subsequent collaborat
 
 ---
 
-## 🔍 Methodology Notes
+## Methodology Notes
 
 ### Why San Francisco?
 - Well-documented smart city implementation
@@ -213,7 +216,7 @@ For questions about this research, the Arnstein's Ladder framework application, 
 
 ---
 
-## 📜 License
+## License
 
 This research was completed as academic coursework at Gdańsk University of Technology. All findings and analysis are original work by Timothy Mayowa Akintayo under the supervision of Professor Magdalena Ciesielska.
 
