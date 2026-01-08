@@ -54,7 +54,7 @@ With urban populations expected to reach 6.4 billion by 2050, cities globally fa
 - **66% reduction** in street cleaning requests
 - **64% reduction** in illegal dumping
 - Significantly improved resident satisfaction with city cleanliness
-[waste_management_statistics](figures/san_francisco_waste_management_impact.jpg)
+![waste_management_statistics](figures/san_francisco_waste_management_impact.jpg)
 
 ### Critical Success Factor: Citizen Engagement
 
@@ -66,7 +66,7 @@ The research reveals that San Francisco's technical success was fundamentally en
    - Reporting anomalies and maintenance needs
    - Providing local knowledge to optimize sensor placement
 
-**Core Insight:** Community members weren't just "users" of smart bins—they were **co-designers** of the system with genuine influence over placement and ongoing operations.
+**Core Insight:** Community members weren't just "users" of smart bins, they were **co-designers** of the system with genuine influence over placement and ongoing operations.
 
 ---
 
