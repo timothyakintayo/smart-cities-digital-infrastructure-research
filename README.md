@@ -1,5 +1,6 @@
 # Digital Infrastructure and Citizen Engagement in Smart Sustainable Cities
-![iot at work](iot.jpg)
+![iot at work](images/iot.jpg)
+
 **Research Type:** Solo Academic Research  
 **
 
