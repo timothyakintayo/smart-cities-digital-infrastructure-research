@@ -4,7 +4,7 @@
 **Research Type:** Solo Academic Research  
 
 
-Institution:**Gdańsk University of Technology**  
+Institution:** Gdańsk University of Technology**  
 **Course:** Exploring Citizen Engagement for Smart Sustainable Cities  
 **Instructor:** Professor Magdalena Ciesielska  
 **Date:** 2024  
@@ -54,7 +54,7 @@ With urban populations expected to reach 6.4 billion by 2050, cities globally fa
 - **66% reduction** in street cleaning requests
 - **64% reduction** in illegal dumping
 - Significantly improved resident satisfaction with city cleanliness
-[waste_management_statistics](san_francisco_waste_management_impact.jpg)
+[waste_management_statistics](figures/san_francisco_waste_management_impact.jpg)
 
 ### Critical Success Factor: Citizen Engagement
 
@@ -112,7 +112,7 @@ This study directly informed my subsequent research on Tartu, Estonia, which exa
 - **28.5 billion** IoT-connected devices anticipated by 2029
 - Large share contributing to smart city solutions
 - Makes IoT the most widely deployed digital infrastructure in urban environments
-[iot_projection](figures/iot_deployment_statistics.jpg)
+![iot_projection](figures/iot_deployment_statistics.jpg)
 
 ### Waste Management as Urban Challenge
 Urban centers concentrate populations and resources, creating pressure on:
