@@ -210,7 +210,7 @@ This solo research project served as the foundation for my subsequent collaborat
 
 **Researcher:** Timothy Mayowa Akintayo  
 **Email:** [timothym.akintayo@gmail.com]  
-**Portfolio:** [timothyakintayo.github.io](https://timothyakintayo.github.io)  
+**Portfolio:** [timothyakintayo.github.io](https://timothyakintayo.github.io)]  
 **LinkedIn:** [https://www.linkedin.com/in/timothy-akintayo]
 
 For questions about this research, the Arnstein's Ladder framework application, or connections to my broader smart cities work, feel free to reach out.
