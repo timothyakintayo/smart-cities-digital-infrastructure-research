@@ -82,7 +82,8 @@ The research applies Arnstein's eight-rung ladder to evaluate citizen participat
 - **Rung 6 (Partnership):** Shared decision-making between city and residents
 - **Rung 7 (Delegated Power):** Citizens hold significant control over project operations
 - **Rung 8 (Citizen Control):** Full citizen governance
-![Arstein Framework San Francisco](arstein_ladder_san_francisco.jpg)
+
+![Arstein Framework San Francisco](figures/arstein_ladder_san_francisco.jpg)
 
 **San Francisco achieved Rungs 6-7**, which the research identifies as critical for sustainable smart city success.
 
@@ -101,7 +102,7 @@ The research applies Arnstein's eight-rung ladder to evaluate citizen participat
 - Success metrics must include participation quality, not just technical performance
 
 ### For Future Research
-This study directly informed my subsequent research on Tartu, Estonia, which examined the inverse case: technically successful digital infrastructure that **excluded** citizens through design choices (see [Tartu Smart Cities Repository](../tartu-smart-cities-analysis)).
+This study directly informed my subsequent research on Tartu, Estonia, which examined the inverse case: technically successful digital infrastructure that **excluded** citizens through design choices (see [Tartu, Estonia analysis](https://github.com/timothyakintayo/timothyakintayo-tartu-smart-city-analysis)
 
 ---
 
